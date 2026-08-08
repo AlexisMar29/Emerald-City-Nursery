@@ -1,0 +1,30 @@
+C:\Users\alexi\Downloads\Exam1\Exam1\bin\Debug\Exam1.exe.config
+C:\Users\alexi\Downloads\Exam1\Exam1\bin\Debug\Exam1.exe
+C:\Users\alexi\Downloads\Exam1\Exam1\bin\Debug\Exam1.pdb
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.Form1.resources
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.Properties.Resources.resources
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.csproj.GenerateResource.cache
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.exe
+C:\Users\alexi\Downloads\Exam1\Exam1\obj\Debug\Exam1.pdb
+G:\C# pt 1\Exam1\Exam1\bin\Debug\Exam1.exe.config
+G:\C# pt 1\Exam1\Exam1\bin\Debug\Exam1.exe
+G:\C# pt 1\Exam1\Exam1\bin\Debug\Exam1.pdb
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.Form1.resources
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.Properties.Resources.resources
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.csproj.GenerateResource.cache
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.exe
+G:\C# pt 1\Exam1\Exam1\obj\Debug\Exam1.pdb
+G:\C# pt 1\EmeraldCity\Exam1\bin\Debug\Exam1.exe.config
+G:\C# pt 1\EmeraldCity\Exam1\bin\Debug\Exam1.exe
+G:\C# pt 1\EmeraldCity\Exam1\bin\Debug\Exam1.pdb
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.csproj.AssemblyReference.cache
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.Form1.resources
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.Properties.Resources.resources
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.csproj.GenerateResource.cache
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.exe
+G:\C# pt 1\EmeraldCity\Exam1\obj\Debug\Exam1.pdb
